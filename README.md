@@ -13,8 +13,6 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 
 👯 Looking to collaborate on Open Source Projects
 
-💬 Ask me about [Your Skills]
-
 📫 Reach me at hiten11107@gmail.com
 
 ⚡ Fun fact: [Something interesting about you]
